@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+body,table,tr,td{
+			font-size: 24px;
+			color:#003;
+			
+}
+fieldset{
+	font-size:12px;
+	
+}
+span{
+	font-size:32px;
+	color:#330066;
+}
+input{
+	text-align:center;
+}
